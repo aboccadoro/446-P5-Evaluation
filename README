@@ -1,0 +1,8 @@
+To compile and run this java application you will need to have java JDK and JRE installed
+on your machine. A suitable IDE is advisable to seemlessly import and run the metrics.
+If importing from an IDE, make sure to link the external .jar file dependencies located
+in the /lib/ directory for convenience. If using command line, all of the necessary
+arguments are hard coded into the main method. Therefore, it is only necessary to compile
+and run the Evaluation.class and/or Evaluation.java files. Once again it is advisable to
+use an IDE as there are external dependencies that do no make use of frameworks such as
+maven or groovy to handle their integration.
